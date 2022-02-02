@@ -12,7 +12,7 @@
 * Ashley Sawle - Bioinformatics Core, Cancer Research UK Cambridge Institute
 * Hugo Tavares - Bioinformatics Training Facility, University of Cambridge
 * Katarzyna Kania - Genomics Core, Cancer Research UK Cambridge Institute
-* Stephane Ballereau - Bioinformatics Core, Cancer Research UK Cambridge Institute
+* Stephane Ballereau - Cellular Genetics programme, Wellcome Sanger Institute
 
 **Helpers:**
 
@@ -72,35 +72,27 @@ Please not that we may adjust these times as the pace of the course requires.
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 17:30 **QC and exploratory analysis** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.pdf)\)
-<!--
-    + [QC and preprocessing](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)     
-    + [Exercise](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.Exercise.html)  
--->
+<!-- + [QC and preprocessing](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html) -->
+<!-- + [Exercise](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.Exercise.html) -->
 
 ### Day 2
 
 * 09:30 - 09:40 Recap <!-- Stephane -->
 * 09:40 - 12:30 **Normalisation** - Stephane Ballereau
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) <!-- \([pdf](scRNAseq/Slides/05_normalisationSlides.pdf)\) -->
-<!--
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html)     
-    + [Exercises](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises.html)
-    + [Exercise Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises_solutions.html)
--->
+<!-- + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html) -->     
+<!-- + [Exercises](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises.html) -->
+<!-- + [Exercise Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises_solutions.html) -->
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 15:25 **Feature selection and dimensionality reduction** - Hugo Tavares
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html)
-<!--
-    + [Materials](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html)
--->
+<!-- + [Materials](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html) -->
 * 15:25 - 15:35 10 min **break**
 * 15:35 - 17:30 **Batch correction and data set integration** - Abigail Edwards
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html)  
-<!--
-    + [Data set integration](Markdowns/07_DataSetIntegration_PBMMC_ETV6-RUNX1.html)
-    + [Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DataIntegrationChallengeSolution.html)
-    + [Batch Correction extended example](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_BatchCorrection.html)
--->
+<!-- + [Data set integration](Markdowns/07_DataSetIntegration_PBMMC_ETV6-RUNX1.html) -->
+<!-- + [Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DataIntegrationChallengeSolution.html) -->
+<!-- + [Batch Correction extended example](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_BatchCorrection.html) -->
     
 ### Day 3
 
@@ -122,16 +114,12 @@ Please not that we may adjust these times as the pace of the course requires.
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 15:25 **Differential expression between conditions** - Stephane Ballereau
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
-<!--
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
-    + [Exercise1](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1.Rmd)
-    + [Exercise1 Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1_solutions.html)
--->
+<!-- + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html) -->
+<!-- + [Exercise1](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1.Rmd) -->
+<!-- + [Exercise1 Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1_solutions.html) -->
 * 15:25 - 15:35 10 min **break** 
 * 15:35 - 17:30 **Differential abundance between conditions** - Stephane Ballereau
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
-<!--
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
-    + [Exercise2](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2.Rmd)
-    + [Exercise2 Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2_solutions.html)
--->
+<!-- + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html) -->
+<!-- + [Exercise2](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2.Rmd) -->
+<!-- + [Exercise2 Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2_solutions.html) -->
