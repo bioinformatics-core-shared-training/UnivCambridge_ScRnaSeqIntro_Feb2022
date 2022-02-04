@@ -72,7 +72,7 @@ Please not that we may adjust these times as the pace of the course requires.
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 17:30 **QC and exploratory analysis** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.pdf)\)
-<!-- + [QC and preprocessing](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html) -->
+    + [QC and preprocessing](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)
 <!-- + [Exercise](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.Exercise.html) -->
 
 ### Day 2
