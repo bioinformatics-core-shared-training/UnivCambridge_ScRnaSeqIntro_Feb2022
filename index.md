@@ -86,6 +86,7 @@ Please not that we may adjust these times as the pace of the course requires.
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 15:25 **Feature selection and dimensionality reduction** - Hugo Tavares
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html)
+    + R script for practical in `Exercises/06_DimensionalityReduction_worksheet.R` (you can also download it [here](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeqIntro_Base/blob/87c654f73aa47d258f39a9c42d1563c4e51ddcd3/CourseMaterials/Exercises/06_DimensionalityReduction_worksheet.R))
 <!-- + [Materials](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html) -->
 * 15:25 - 15:35 10 min **break**
 * 15:35 - 17:30 **Batch correction and data set integration** - Abigail Edwards
@@ -105,6 +106,7 @@ Please not that we may adjust these times as the pace of the course requires.
 * 11:05 - 11:15 10 min **break** 
 * 11:15 - 12:30 **Identification of cluster marker genes** - Hugo Tavares
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
+    + R script for practical in `Exercises/09_ClusterMarkerGenes.R` (you can also download it [here](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeqIntro_Base/blob/87c654f73aa47d258f39a9c42d1563c4e51ddcd3/CourseMaterials/Exercises/09_ClusterMarkerGenes.R))
 <!-- + [Cluster marker genes](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_ClusterMarkerGenes.html) -->
 <!-- + Worksheet in `Exercises/09_ClusterMarkerGenes.R` -->
 * 12:30 - 13:30 **lunch break**
