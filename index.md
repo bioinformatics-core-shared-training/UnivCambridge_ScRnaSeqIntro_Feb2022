@@ -80,7 +80,7 @@ Please not that we may adjust these times as the pace of the course requires.
 * 09:30 - 09:40 Recap <!-- Stephane -->
 * 09:40 - 12:30 **Normalisation** - Stephane Ballereau
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) <!-- \([pdf](scRNAseq/Slides/05_normalisationSlides.pdf)\) -->
-<!-- + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html) -->     
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html)    
 <!-- + [Exercises](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises.html) -->
 <!-- + [Exercise Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises_solutions.html) -->
 * 12:30 - 13:30 **lunch break**
