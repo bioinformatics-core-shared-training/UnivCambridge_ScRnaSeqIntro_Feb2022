@@ -103,7 +103,7 @@ Please not that we may adjust these times as the pace of the course requires.
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi.html)
     + [Exercise1](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi_exercise.Rmd)
-<!-- + [Exercise Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi_exercise_solutions.html) -->
+    + [Exercise Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_ClusteringPostDsi_exercise_solutions.html)
 * 11:05 - 11:15 10 min **break** 
 * 11:15 - 12:30 **Identification of cluster marker genes** - Hugo Tavares
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
