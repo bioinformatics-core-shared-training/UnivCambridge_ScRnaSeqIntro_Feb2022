@@ -122,4 +122,4 @@ Please not that we may adjust these times as the pace of the course requires.
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
     + [Exercise2](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2.Rmd)
-<!-- + [Exercise2 Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2_solutions.html) -->
+    + [Exercise2 Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2_solutions.html)
