@@ -120,6 +120,6 @@ Please not that we may adjust these times as the pace of the course requires.
 * 15:25 - 15:35 10 min **break** 
 * 15:35 - 17:30 **Differential abundance between conditions** - Stephane Ballereau
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
-<!-- + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html) -->
-<!-- + [Exercise2](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2.Rmd) -->
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
+    + [Exercise2](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2.Rmd)
 <!-- + [Exercise2 Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise2_solutions.html) -->
